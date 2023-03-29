@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Git fuck!");
         System.out.println("Hello Git4!");
         System.out.println("fuck Git!");
+        System.out.println("pullk Git!");
     }
 }
